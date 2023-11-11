@@ -36,6 +36,12 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+.img-fluid {
+  width: 100%;
+  height: auto;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -542,7 +548,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f8fbfe;
+
 }
 
 .section-title {
@@ -556,7 +562,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: #ffffff;
 }
 
 .section-title p {
